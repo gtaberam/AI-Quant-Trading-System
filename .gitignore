@@ -1,0 +1,23 @@
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Market data
+data/raw/
+data/processed/
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.log
+.pytest_cache/
